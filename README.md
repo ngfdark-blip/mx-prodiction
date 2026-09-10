@@ -1,41 +1,25 @@
 <div align="center">
 
-<style>
-  @keyframes pulseGlow {
-    0% { filter: drop-shadow(0 0 15px rgba(6, 182, 212, 0.4)); transform: scale(1); }
-    50% { filter: drop-shadow(0 0 35px rgba(139, 92, 246, 0.9)); transform: scale(1.02); }
-    100% { filter: drop-shadow(0 0 15px rgba(6, 182, 212, 0.4)); transform: scale(1); }
-  }
-
-  @keyframes fadeInOut {
-    0% { opacity: 0.3; transform: translateY(5px); }
-    50% { opacity: 1; transform: translateY(0px); }
-    100% { opacity: 0.3; transform: translateY(5px); }
-  }
-
-  .animated-studio-img {
-    animation: pulseGlow 5s infinite ease-in-out, fadeInOut 5s infinite ease-in-out;
-    border-radius: 18px;
-    border: 2px solid rgba(139, 92, 246, 0.5);
-  }
-</style>
-
+<!-- Animated Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=220&section=header&text=MX%20PRODUCTION%20SUITE&fontSize=34&fontColor=ffffff&animation=fadeIn&fontWeight=850" width="100%" alt="Header Banner">
 </p>
 
 <br>
 
+<!-- Logo with Glowing Pulse Border -->
 <p align="center">
-  <img src="logo.png" width="260px" class="animated-studio-img" alt="MX Production Logo">
+  <img src="logo.png" width="280px" alt="MX Production Logo" style="border-radius: 20px; box-shadow: 0 0 35px rgba(139, 92, 246, 0.9), 0 0 15px rgba(6, 182, 212, 0.7); margin-bottom: 15px;">
 </p>
 
+<!-- Cinematic Control Room Studio Image -->
 <p align="center">
-  <img src="watermarked_img_12372649270231606912.jpg" width="90%" class="animated-studio-img" alt="Cinematic Control Room Studio">
+  <img src="watermarked_img_12372649270231606912.jpg" width="90%" alt="Cinematic Control Room Studio" style="border-radius: 20px; box-shadow: 0 0 40px rgba(6, 182, 212, 0.8);">
 </p>
 
 <br>
 
+<!-- Native Keyboard Name Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/NAME-Yuseef%20Sinan-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=121212" alt="Name EN">
   <img src="https://img.shields.io/badge/%D9%86%D8%A7%DA%A4-يوسف%20سنان-06B6D4?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=121212" alt="Name AR">
@@ -48,6 +32,7 @@
 
 <br>
 
+<!-- Tech Stack Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-18.x-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-4.19-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
@@ -161,6 +146,7 @@
 
 <div align="center">
 
+  <!-- Animated Footer Banner -->
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=80&section=footer&animation=fadeIn" width="100%" alt="Footer Banner">
   </p>
