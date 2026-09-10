@@ -1,20 +1,17 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=220&section=header&text=MX%20PRODUCTION%20SUITE&fontSize=34&fontColor=ffffff&animation=fadeIn&fontWeight=850" width="100%" alt="Header Banner">
 </p>
 
 <br>
 
-<!-- Logo Image Clickable to Snapchat Profile -->
 <p align="center">
   <a href="https://www.snapchat.com/add/k4boos_surchi" target="_blank">
     <img src="logo.png" width="280px" alt="Snapchat Profile - k4boos_surchi" style="border-radius: 20px; box-shadow: 0 0 35px rgba(252, 211, 77, 0.9), 0 0 15px rgba(139, 92, 246, 0.7); margin-bottom: 20px;">
   </a>
 </p>
 
-<!-- Cinematic Image Clickable to TikTok Profile -->
 <p align="center">
   <a href="https://www.tiktok.com/@yuseef_sinan" target="_blank">
     <img src="logo.png" width="90%" alt="TikTok Profile - yuseef_sinan" style="border-radius: 20px; box-shadow: 0 0 40px rgba(236, 72, 153, 0.8), 0 0 20px rgba(6, 182, 212, 0.5); margin-bottom: 20px;">
@@ -23,7 +20,6 @@
 
 <br>
 
-<!-- Social Media & Profile Badges (Clickable) -->
 <p align="center">
   <a href="https://www.snapchat.com/add/k4boos_surchi" target="_blank">
     <img src="https://img.shields.io/badge/Snapchat-k4boos__surchi-F7DF1E?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat">
@@ -36,7 +32,6 @@
   </a>
 </p>
 
-<!-- Native Keyboard Name Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/NAME-Yuseef%20Sinan-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=121212" alt="Name EN">
   <img src="https://img.shields.io/badge/%D9%86%D8%A7%DA%A4-يوسف%20سنان-06B6D4?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=121212" alt="Name AR">
@@ -49,7 +44,6 @@
 
 <br>
 
-<!-- Tech Stack Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-18.x-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-4.19-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
@@ -101,7 +95,12 @@
   <img src="https://img.shields.io/badge/Audio-Mixer-9C27B0?style=for-the-badge&logo=audacity&logoColor=white" alt="Mixer">
 </p>
 
-[ 🌐 **English** ] | [ 🌐 **کوردی (بادینی)** ] | [ 🌐 **کوردی (سۆرانی)** ] | [ 🌐 **العربية** ]
+<p align="center">
+  <a href="https://www.snapchat.com/add/k4boos_surchi" target="_blank">[ 🌐 <strong>English (Snapchat)</strong> ]</a> | 
+  <a href="https://www.tiktok.com/@yuseef_sinan" target="_blank">[ 🌐 <strong>کوردی (بادینی - TikTok)</strong> ]</a> | 
+  <a href="https://t.me/YUSEEF_SURCHI" target="_blank">[ 🌐 <strong>کوردی (سۆرانی - Telegram)</strong> ]</a> | 
+  <a href="https://t.me/YUSEEF_SURCHI" target="_blank">[ 🌐 <strong>العربية (Telegram)</strong> ]</a>
+</p>
 
 </div>
 
@@ -163,7 +162,6 @@
 
 <div align="center">
 
-  <!-- Animated Footer Banner -->
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=80&section=footer&animation=fadeIn" width="100%" alt="Footer Banner">
   </p>
