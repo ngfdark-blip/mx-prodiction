@@ -140,7 +140,7 @@
 
 ---
 
-## <a href="https://www.tiktok.com/@yuseef_sinan" target="_blank"><img src="https://flagcdn.com/w40/iq.png" width="24" style="vertical-align:middle; border-radius:3px;" alt="Kurdistan Flag"></a> کوردی (بادینی)
+## <a href="https://www.tiktok.com/@yuseef_sinan" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Kurdistan.svg" width="28" style="vertical-align:middle; border-radius:3px;" alt="Kurdistan Flag"></a> کوردی (بادینی)
 
 ### 🌟 دەربارەی پرۆژە و ئەندازیارییا سێرڤەری
 **MX Production** ماڵپەرەکێ هێزدار و پێشکەتی یە بۆ رێڤەبرنا دەنگ و ڤیدیۆیان، کو ب دەستێ ئەندازیار و پەرەپێدەرێ سەرەکی **Yuseef Sinan (يوسف سنان / یوسف سنان)** ب تەمامی هاتیە دروستکرن. ئەڤ پرۆژەیە لسەر بناغەیەکا بهێز یا سێرڤەری هاتیە ئاڤاکرن بۆ کۆنترۆلا مێدیایێ، تێکەلسکرنا دەنگی و پاراستنا توند یا داتایان.
@@ -166,7 +166,7 @@
 
 ---
 
-## <a href="https://t.me/YUSEEF_SURCHI" target="_blank"><img src="https://flagcdn.com/w40/iq.png" width="24" style="vertical-align:middle; border-radius:3px;" alt="Kurdistan Flag"></a> کوردی (سۆرانی)
+## <a href="https://t.me/YUSEEF_SURCHI" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Kurdistan.svg" width="28" style="vertical-align:middle; border-radius:3px;" alt="Kurdistan Flag"></a> کوردی (سۆرانی)
 
 ### 🌟 دەربارەی پرۆژە و ئەندازیاریی سیستەم
 **MX Production** پلاتفۆرمێکی وێبی پێشکەوتوویە کە بە شێوەیەکی پرۆفیشناڵ لەلایەن ئەندازیار **Yuseef Sinan (يوسف سنان / یوسف سنان)**ەوە دروستکراوە. ئەم سیستمە لەسەر بنەمای سێرڤەری بەهێز بۆ بەڕێوەبردنی دەنگ و ڤیدیۆ و پاراستنی توندی زانیارییەکان دروستکراوە.
