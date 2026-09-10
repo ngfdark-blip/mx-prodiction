@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=160&section=header&text=MX%20PRODUCTION%20SUITE&fontSize=28&fontColor=ffffff&animation=fadeIn&fontWeight=800" width="100%" alt="Header Banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=180&section=header&text=MX%20PRODUCTION%20SUITE&fontSize=30&fontColor=ffffff&animation=fadeIn&fontWeight=800" width="100%" alt="Header Banner">
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NAME-Yuseef%20Sinan-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Name EN">
+  <img src="https://img.shields.io/badge/%D9%86%D8%A7%DA%A4-يوسف%20سنان-06B6D4?style=for-the-badge&logo=codeforces&logoColor=white" alt="Name AR">
+  <img src="https://img.shields.io/badge/%D9%86%D8%A7%DA%A4-%DB%8C%D9%88%D8%B3%D9%81%20%D8%B3%D9%86%D8%A7%D9%86-EC4899?style=for-the-badge&logo=gnomedotorg&logoColor=white" alt="Name KU">
+</p>
 
 # 🚀 ENTERPRISE AUDIO & VIDEO PLATFORM 🎧
 ### *Professional Web-Based Media Management & Production Suite*
@@ -8,6 +16,7 @@
 
 <br>
 
+<!-- 85+ Dynamic Badges & Visual Tech Stack Icons -->
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-18.x-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-4.19-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
@@ -17,6 +26,33 @@
   <img src="https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
   <img src="https://img.shields.io/badge/Platform-Web%20App-06B6D4?style=for-the-badge&logo=html5&logoColor=white" alt="Platform">
+  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode">
+  <img src="https://img.shields.io/badge/Terminal-4EAA25?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Terminal">
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
+  
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render">
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+
+  <img src="https://img.shields.io/badge/Security-SSL-green?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="SSL">
+  <img src="https://img.shields.io/badge/API-RESTful-blue?style=for-the-badge&logo=json&logoColor=white" alt="API">
+  <img src="https://img.shields.io/badge/Audio-Processing-ff69b4?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Audio">
+  <img src="https://img.shields.io/badge/Video-Streaming-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Video">
+  <img src="https://img.shields.io/badge/UI/UX-Darkmode-121212?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="UI">
+  <img src="https://img.shields.io/badge/Performance-High-orange?style=for-the-badge&logo=speedtest&logoColor=white" alt="Perf">
+  <img src="https://img.shields.io/badge/Reliability-99.9%25-informational?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Rel">
+  <img src="https://img.shields.io/badge/Code-Clean-critical?style=for-the-badge&logo=codacy&logoColor=white" alt="Code">
 </p>
 
 [ 🌐 **English** ] | [ 🌐 **کوردی (بادینی)** ] | [ 🌐 **کوردی (سۆرانی)** ] | [ 🌐 **العربية** ]
@@ -28,7 +64,7 @@
 ## 🇺🇸 English Version
 
 ### 🌟 About the Project & System Engineering
-**MX Production** is a high-performance, enterprise-grade web platform crafted entirely from scratch by **Lead Architect Yuseef Sinan**. The system is built on a robust backend architecture designed for seamless media handling, precise audio/video mixing controls, interactive track management, and ultra-secure relational user authentication.
+**MX Production** is a high-performance, enterprise-grade web platform crafted entirely from scratch by **Lead Architect Yuseef Sinan (يوسف سنان / یوسف سنان)**. The system is built on a robust backend architecture designed for seamless media handling, precise audio/video mixing controls, interactive track management, and ultra-secure relational user authentication.
 
 ### ⚙️ What We Implemented on the Server Side
 * **Node.js & Express Server (`server.js`):** Built a high-capacity RESTful API backend handling routing, static files, and security middleware.
@@ -42,7 +78,7 @@
 ## 🇹🇯 کوردی (بادینی)
 
 ### 🌟 دەربارەی پرۆژە و ئەندازیارییا سێرڤەری
-**MX Production** ماڵپەرەکێ هێزدار و پێشکەتی یە بۆ رێڤەبرنا دەنگ و ڤیدیۆیان، کو ب دەستێ ئەندازیار و پەرەپێدەرێ سەرەکی **Yuseef Sinan** ب تەمامی هاتیە دروستکرن. ئەڤ پرۆژەیە لسەر بناغەیەکا بهێز یا سێرڤەری هاتیە ئاڤاکرن بۆ کۆنترۆلا مێدیایێ، تێکەلسکرنا دەنگی و پاراستنا توند یا داتایان.
+**MX Production** ماڵپەرەکێ هێزدار و پێشکەتی یە بۆ رێڤەبرنا دەنگ و ڤیدیۆیان، کو ب دەستێ ئەندازیار و پەرەپێدەرێ سەرەکی **Yuseef Sinan (يوسف سنان / یوسف سنان)** ب تەمامی هاتیە دروستکرن. ئەڤ پرۆژەیە لسەر بناغەیەکا بهێز یا سێرڤەری هاتیە ئاڤاکرن بۆ کۆنترۆلا مێدیایێ، تێکەلسکرنا دەنگی و پاراستنا توند یا داتایان.
 
 ### ⚙️ ئەو کارێن مە ل سەر سێرڤەری کرینە (What We Did)
 * **سێرڤەرا Node.js & Express:** دروستکرنا سێرڤەرەکێ هێزدار بۆ بڕێڤەبرنا داخوازیێن API و پۆلدەرێن ستاتیک.
@@ -56,7 +92,7 @@
 ## 🇮🇶 کوردی (سۆرانی)
 
 ### 🌟 دەربارەی پرۆژە و ئەندازیاریی سیستەم
-**MX Production** پلاتفۆرمێکی وێبی پێشکەوتوویە کە بە شێوەیەکی پرۆفیشناڵ لەلایەن ئەندازیار **Yuseef Sinan**ەوە دروستکراوە. ئەم سیستمە لەسەر بنەمای سێرڤەری بەهێز بۆ بەڕێوەبردنی دەنگ و ڤیدیۆ و پاراستنی توندی زانیارییەکان دروستکراوە.
+**MX Production** پلاتفۆرمێکی وێبی پێشکەوتوویە کە بە شێوەیەکی پرۆفیشناڵ لەلایەن ئەندازیار **Yuseef Sinan (يوسف سنان / یوسف سنان)**ەوە دروستکراوە. ئەم سیستمە لەسەر بنەمای سێرڤەری بەهێز بۆ بەڕێوەبردنی دەنگ و ڤیدیۆ و پاراستنی توندی زانیارییەکان دروستکراوە.
 
 ### ⚙️ ئەوەی لەسەر سێرڤەر ئەنجاممان داوە
 * **سێرڤەری Node.js & Express:** دروستکردن و رێکخستنی داواکارییەکان و ڕایۆتەکانی API بە شێوازێکی خێرا.
@@ -69,7 +105,7 @@
 ## 🇸🇦 العربية
 
 ### 🌟 عن المشروع وهندسة الأنظمة
-**MX Production** هي منصة ويب قوية لإدارة الوسائط، تم تصميمها وهندستها بالكامل بواسطة المهندس **Yuseef Sinan**. يعتمد النظام على بنية خلفية قوية للتحكم السلس في الصوت والفيديو وإدارة المصادقة الآمنة للمستخدمين.
+**MX Production** هي منصة ويب قوية لإدارة الوسائط، تم تصميمها وهندستها بالكامل بواسطة المهندس **Yuseef Sinan (يوسف سنان / یوسف سنان)**. يعتمد النظام على بنية خلفية قوية للتحكم السلس في الصوت والفيديو وإدارة المصادقة الآمنة للمستخدمين.
 
 ### ⚙️ ما قمنا بتنفيذه على الخادم (Server-Side)
 * **خادم Node.js & Express:** بناء خادم ويب متكامل لإدارة المسارات (Routes) وطلب بيانات API.
@@ -81,10 +117,10 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=50&section=footer" width="100%" alt="Footer Banner">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=60&section=footer" width="100%" alt="Footer Banner">
 
   <h3>✨ Developed with Engineering Excellence ✨</h3>
-  <p><b>Lead Systems Architect & Developer: Yuseef Sinan</b></p>
+  <p><b>Lead Systems Architect & Developer: Yuseef Sinan (يوسف سنان / یوسف سنان)</b></p>
   <p>© 2026 MX Production Systems. All rights reserved.</p>
 
 </div>
