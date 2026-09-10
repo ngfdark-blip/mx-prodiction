@@ -114,7 +114,7 @@
 
 ---
 
-## <a href="https://www.snapchat.com/add/k4boos_surchi" target="_blank"><img src="https://flagcdn.com/w40/iq.png" width="24" style="vertical-align:middle; border-radius:3px;" alt="Kurdistan Flag"></a> English Version
+## <a href="https://www.snapchat.com/add/k4boos_surchi" target="_blank"><img src="https://flagcdn.com/w40/gb.png" width="24" style="vertical-align:middle; border-radius:3px;" alt="UK Flag"></a> English Version
 
 ### 🌟 About the Project & System Engineering
 **MX Production** is a high-performance, enterprise-grade web platform crafted entirely from scratch by **Lead Architect Yuseef Sinan (يوسف سنان / یوسف سنان)**. The system is built on a robust backend architecture designed for seamless media handling, precise audio/video mixing controls, interactive track management, and ultra-secure relational user authentication.
@@ -191,7 +191,7 @@
 
 ---
 
-## <a href="https://t.me/YUSEEF_SURCHI" target="_blank"><img src="https://flagcdn.com/w40/iq.png" width="24" style="vertical-align:middle; border-radius:3px;" alt="Kurdistan Flag"></a> العربية
+## <a href="https://t.me/YUSEEF_SURCHI" target="_blank"><img src="https://flagcdn.com/w40/iq.png" width="24" style="vertical-align:middle; border-radius:3px;" alt="Iraq Flag"></a> العربية
 
 ### 🌟 عن المشروع وهندسة الأنظمة
 **MX Production** هي منصة ويب قوية لإدارة الوسائط، تم تصميمها وهندستها بالكامل بواسطة المهندس **Yuseef Sinan (يوسف سنان / یوسف سنان)**. يعتمد النظام على بنية خلفية قوية للتحكم السلس في الصوت والفيديو وإدارة المصادقة الآمنة للمستخدمين.
