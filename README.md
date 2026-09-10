@@ -7,13 +7,13 @@
 
 <br>
 
-<!-- Logo & Cinematic Image Stacked Properly -->
+<!-- Stacked Images with logo.png -->
 <p align="center">
   <img src="logo.png" width="280px" alt="MX Production Logo" style="border-radius: 15px; box-shadow: 0 0 25px rgba(139, 92, 246, 0.6); margin-bottom: 15px;">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ngfdark-blip/ngfdark-blip/mx-prodiction/logo.png" width="90%" alt="Cinematic Control Room Studio" style="border-radius: 15px; box-shadow: 0 0 30px rgba(6, 182, 212, 0.5);">
+  <img src="logo.png" width="90%" alt="Cinematic Control Room Studio" style="border-radius: 15px; box-shadow: 0 0 30px rgba(6, 182, 212, 0.5);">
 </p>
 
 <br>
