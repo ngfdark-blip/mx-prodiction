@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ngfdark-blip/ngfdark-blip/main/watermarked_img_8246078260104446310.jpg" width="90%" alt="Cinematic Control Room Studio" style="border-radius: 15px; box-shadow: 0 0 30px rgba(6, 182, 212, 0.5);">
+  <img src="https://raw.githubusercontent.com/ngfdark-blip/ngfdark-blip/main/logo.png" width="90%" alt="Cinematic Control Room Studio" style="border-radius: 15px; box-shadow: 0 0 30px rgba(6, 182, 212, 0.5);">
 </p>
 
 <br>
