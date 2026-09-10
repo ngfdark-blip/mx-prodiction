@@ -1,24 +1,21 @@
 <div align="center">
 
-<!-- Animated Header Banner with Floating Effect -->
+<!-- Animated Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=220&section=header&text=MX%20PRODUCTION%20SUITE&fontSize=34&fontColor=ffffff&animation=fadeIn&fontWeight=850" width="100%" alt="Header Banner">
 </p>
 
 <br>
 
-<!-- Project Logo & Cinematic Project Image Integration -->
+<!-- Side-by-Side Integration of Logo and Cinematic Image -->
 <p align="center">
-  <img src="logo.png" width="220px" alt="MX Production Logo" style="border-radius: 50%; box-shadow: 0 0 25px rgba(139, 92, 246, 0.6); margin-bottom: 20px;">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ngfdark-blip/ngfdark-blip/main/logo.png" width="85%" alt="Cinematic Control Room Studio" style="border-radius: 12px; box-shadow: 0 0 30px rgba(6, 182, 212, 0.5);">
+  <img src="logo.png" width="38%" alt="MX Production Logo" style="border-radius: 15px; box-shadow: 0 0 25px rgba(139, 92, 246, 0.6); margin-right: 15px;">
+  <img src="https://raw.githubusercontent.com/ngfdark-blip/ngfdark-blip/main/watermarked_img_8246078260104446310.jpg" width="58%" alt="Cinematic Control Room Studio" style="border-radius: 15px; box-shadow: 0 0 25px rgba(6, 182, 212, 0.6);">
 </p>
 
 <br>
 
-<!-- Glowing Native Keyboard Name Badges -->
+<!-- Native Keyboard Name Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/NAME-Yuseef%20Sinan-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=121212" alt="Name EN">
   <img src="https://img.shields.io/badge/%D9%86%D8%A7%DA%A4-يوسف%20سنان-06B6D4?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=121212" alt="Name AR">
@@ -31,9 +28,8 @@
 
 <br>
 
-<!-- 100+ Ultra Colorful Dynamic Badges with Glowing Style -->
+<!-- Tech Stack Badges -->
 <p align="center">
-  <!-- Core Backend & Database -->
   <img src="https://img.shields.io/badge/Node.js-18.x-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-4.19-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
@@ -43,14 +39,12 @@
   <img src="https://img.shields.io/badge/License-MIT-F59E0B?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="License">
   <img src="https://img.shields.io/badge/Platform-Web%20App-06B6D4?style=for-the-badge&logo=html5&logoColor=white" alt="Platform">
   
-  <!-- Languages & Frontend -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/DOM-API-6366F1?style=for-the-badge&logo=w3c&logoColor=white" alt="DOM">
   <img src="https://img.shields.io/badge/JSON-Data-555555?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
   
-  <!-- Tools & Environments -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode">
@@ -58,7 +52,6 @@
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 
-  <!-- Operating Systems & Hosting -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
@@ -68,7 +61,6 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
 
-  <!-- Security, Protocol & Audio/Video Features -->
   <img src="https://img.shields.io/badge/Security-SSL%20TLS-10B981?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="SSL">
   <img src="https://img.shields.io/badge/API-RESTful-3B82F6?style=for-the-badge&logo=fastapi&logoColor=white" alt="API">
   <img src="https://img.shields.io/badge/Audio-Processing-EC4899?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Audio">
@@ -78,7 +70,6 @@
   <img src="https://img.shields.io/badge/Reliability-99.9%25-6366F1?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Rel">
   <img src="https://img.shields.io/badge/Code-Clean%20Architecture-8B5CF6?style=for-the-badge&logo=codacy&logoColor=white" alt="Code">
 
-  <!-- Extra Decorative Tech Badges -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
