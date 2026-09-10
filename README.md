@@ -7,17 +7,34 @@
 
 <br>
 
-<!-- Logo Image (First Image) -->
+<!-- Logo Image Clickable to Snapchat Profile -->
 <p align="center">
-  <img src="logo.png" width="280px" alt="MX Production Logo" style="border-radius: 20px; box-shadow: 0 0 35px rgba(139, 92, 246, 0.9), 0 0 15px rgba(6, 182, 212, 0.7); margin-bottom: 20px;">
+  <a href="https://www.snapchat.com/add/k4boos_surchi" target="_blank">
+    <img src="logo.png" width="280px" alt="Snapchat Profile - k4boos_surchi" style="border-radius: 20px; box-shadow: 0 0 35px rgba(252, 211, 77, 0.9), 0 0 15px rgba(139, 92, 246, 0.7); margin-bottom: 20px;">
+  </a>
 </p>
 
-<!-- Cinematic Image linked to logo.png as requested -->
+<!-- Cinematic Image Clickable to TikTok Profile -->
 <p align="center">
-  <img src="logo.png" width="90%" alt="Cinematic Control Room Studio" style="border-radius: 20px; box-shadow: 0 0 40px rgba(6, 182, 212, 0.8), 0 0 20px rgba(139, 92, 246, 0.5);">
+  <a href="https://www.tiktok.com/@yuseef_sinan" target="_blank">
+    <img src="logo.png" width="90%" alt="TikTok Profile - yuseef_sinan" style="border-radius: 20px; box-shadow: 0 0 40px rgba(236, 72, 153, 0.8), 0 0 20px rgba(6, 182, 212, 0.5); margin-bottom: 20px;">
+  </a>
 </p>
 
 <br>
+
+<!-- Social Media & Profile Badges (Clickable) -->
+<p align="center">
+  <a href="https://www.snapchat.com/add/k4boos_surchi" target="_blank">
+    <img src="https://img.shields.io/badge/Snapchat-k4boos__surchi-F7DF1E?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat">
+  </a>
+  <a href="https://www.tiktok.com/@yuseef_sinan" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-yuseef__sinan-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+  <a href="https://t.me/YUSEEF_SURCHI" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-YUSEEF__SURCHI-26A6E9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
 
 <!-- Native Keyboard Name Badges -->
 <p align="center">
