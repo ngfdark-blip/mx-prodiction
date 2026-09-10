@@ -114,7 +114,7 @@
 
 ---
 
-## 🇺🇸 English Version
+## <img src="https://img.shields.io/badge/English-Snapchat-F7DF1E?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat"> English Version
 
 ### 🌟 About the Project & System Engineering
 **MX Production** is a high-performance, enterprise-grade web platform crafted entirely from scratch by **Lead Architect Yuseef Sinan (يوسف سنان / یوسف سنان)**. The system is built on a robust backend architecture designed for seamless media handling, precise audio/video mixing controls, interactive track management, and ultra-secure relational user authentication.
@@ -126,9 +126,21 @@
 * **Advanced Media Pipeline (`Multer`):** Engineered multi-part form data processing supporting heavy audio and video files with time-duration validation (up to 3 hours).
 * **Dynamic Account Controls:** Developed backend endpoints for secure username updates, credential resetting, and account purging.
 
+<p align="center">
+  <a href="https://www.snapchat.com/add/k4boos_surchi" target="_blank">
+    <img src="https://img.shields.io/badge/Snapchat-k4boos__surchi-F7DF1E?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat">
+  </a>
+  <a href="https://www.tiktok.com/@yuseef_sinan" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-yuseef__sinan-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+  <a href="https://t.me/YUSEEF_SURCHI" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-YUSEEF__SURCHI-26A6E9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
+
 ---
 
-## 🇹🇯 کوردی (بادینی)
+## <img src="https://img.shields.io/badge/کوردی__بادینی-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"> کوردی (بادینی)
 
 ### 🌟 دەربارەی پرۆژە و ئەندازیارییا سێرڤەری
 **MX Production** ماڵپەرەکێ هێزدار و پێشکەتی یە بۆ رێڤەبرنا دەنگ و ڤیدیۆیان، کو ب دەستێ ئەندازیار و پەرەپێدەرێ سەرەکی **Yuseef Sinan (يوسف سنان / یوسف سنان)** ب تەمامی هاتیە دروستکرن. ئەڤ پرۆژەیە لسەر بناغەیەکا بهێز یا سێرڤەری هاتیە ئاڤاکرن بۆ کۆنترۆلا مێدیایێ، تێکەلسکرنا دەنگی و پاراستنا توند یا داتایان.
@@ -154,7 +166,7 @@
 
 ---
 
-## 🇮🇶 کوردی (سۆرانی)
+## <img src="https://img.shields.io/badge/کوردی__سۆرانی-Telegram-26A6E9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"> کوردی (سۆرانی)
 
 ### 🌟 دەربارەی پرۆژە و ئەندازیاریی سیستەم
 **MX Production** پلاتفۆرمێکی وێبی پێشکەوتوویە کە بە شێوەیەکی پرۆفیشناڵ لەلایەن ئەندازیار **Yuseef Sinan (يوسف سنان / یوسف سنان)**ەوە دروستکراوە. ئەم سیستمە لەسەر بنەمای سێرڤەری بەهێز بۆ بەڕێوەبردنی دەنگ و ڤیدیۆ و پاراستنی توندی زانیارییەکان دروستکراوە.
@@ -179,7 +191,7 @@
 
 ---
 
-## 🇸🇦 العربية
+## <img src="https://img.shields.io/badge/العربية-Telegram-26A6E9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"> العربية
 
 ### 🌟 عن المشروع وهندسة الأنظمة
 **MX Production** هي منصة ويب قوية لإدارة الوسائط، تم تصميمها وهندستها بالكامل بواسطة المهندس **Yuseef Sinan (يوسف سنان / یوسف سنان)**. يعتمد النظام على بنية خلفية قوية للتحكم السلس في الصوت والفيديو وإدارة المصادقة الآمنة للمستخدمين.
