@@ -7,14 +7,13 @@
 
 <br>
 
-<!-- Logo with Glowing Pulse Border -->
+<!-- Logo & Cinematic Control Room Studio Images Combined with Neon Glow Effect -->
 <p align="center">
-  <img src="logo.png" width="280px" alt="MX Production Logo" style="border-radius: 20px; box-shadow: 0 0 35px rgba(139, 92, 246, 0.9), 0 0 15px rgba(6, 182, 212, 0.7); margin-bottom: 15px;">
+  <img src="logo.png" width="260px" alt="MX Production Logo" style="border-radius: 20px; box-shadow: 0 0 35px rgba(139, 92, 246, 0.9), 0 0 15px rgba(6, 182, 212, 0.7); margin-bottom: 20px;">
 </p>
 
-<!-- Cinematic Control Room Studio Image -->
 <p align="center">
-  <img src="watermarked_img_12372649270231606912.jpg" width="90%" alt="Cinematic Control Room Studio" style="border-radius: 20px; box-shadow: 0 0 40px rgba(6, 182, 212, 0.8);">
+  <img src="watermarked_img_12372649270231606912.jpg" width="90%" alt="Cinematic Control Room Studio" style="border-radius: 20px; box-shadow: 0 0 40px rgba(6, 182, 212, 0.8), 0 0 20px rgba(139, 92, 246, 0.5);">
 </p>
 
 <br>
