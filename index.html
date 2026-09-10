@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="ku" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MX Production</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- AUTH -->
+        <div id="auth-section">
+            <h1 style="color: var(--accent-color);">MX PRODUCTION</h1>
+            <div id="login-card" class="card">
+                <h2>چوونەژوورەوە</h2>
+                <div class="form-group"><label>ناڤێ بکارهێنەری</label><input type="text" id="login-user"></div>
+                <div class="form-group"><label>پەیڤا نهێنی</label><input type="password" id="login-pass"></div>
+                <button class="btn" onclick="handleLogin()">چوونەژوور</button>
+                <div id="login-error" class="error-msg"></div>
+                <div class="switch-text">هەژمار نینە؟ <span onclick="toggleAuthMode()">تۆمارکرن</span></div>
+            </div>
+            <div id="signup-card" class="card hidden">
+                <h2>تۆمارکرنا هەژمارێ</h2>
+                <div class="form-group"><label>ناڤ (کێم نەبت ژ 6 پیتان)</label><input type="text" id="signup-user"></div>
+                <div class="form-group"><label>پەیڤا نهێنی (کێم نەبت ژ 8 پیتان)</label><input type="password" id="signup-pass"></div>
+                <button class="btn" onclick="handleSignup()">تۆمارکرن</button>
+                <div id="signup-error" class="error-msg"></div>
+                <div class="switch-text">هەژمارا تە هەیە؟ <span onclick="toggleAuthMode()">چوونەژوورەوە</span></div>
+            </div>
+        </div>
+
+        <!-- APP -->
+        <div id="app-section" class="hidden mixer-screen">
+            <h2 id="welcome-title" style="font-size: 18px; color: var(--text-muted); margin-bottom: 0;"></h2>
+            
+            <div id="tab-video" class="mixer-screen" style="display: flex;">
+                <div class="upload-box" onclick="document.getElementById('media-file').click()">
+                    <p style="font-weight: 600;">فایلەکێ بارکە (دەنگ یان ڤیدیۆ)</p>
+                    <p style="font-size: 11px; color: var(--text-muted);">پێدڤیە ژ 3 دەمژمێران کێمتر ببت</p>
+                    <input type="file" id="media-file" accept="video/*,audio/*" style="display:none;" onchange="handleMediaUpload(event)">
+                </div>
+
+                <div id="mixer-panels" class="hidden" style="display: flex; flex-direction: column; gap: 10px;">
+                    <div class="track-control">
+                        <div class="track-header"><span>Vocals</span><button class="mute-btn" onclick="toggleMute(this)">مۆت</button></div>
+                        <div class="track-sliders"><input type="range" min="0" max="100" value="80"></div>
+                    </div>
+                    <div class="track-control">
+                        <div class="track-header"><span>Drums</span><button class="mute-btn" onclick="toggleMute(this)">مۆت</button></div>
+                        <div class="track-sliders"><input type="range" min="0" max="100" value="70"></div>
+                    </div>
+                    <div class="player-bar">
+                        <audio id="audio-player" style="width: 100%;" controls></audio>
+                        <div class="player-controls">
+                            <button class="ctrl-btn" onclick="skipTime(-5)">⏮</button>
+                            <div class="play-pause-btn" onclick="togglePlayPause()">▶</div>
+                            <button class="ctrl-btn" onclick="skipTime(5)">⏭</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="tab-account" class="mixer-screen hidden">
+                <div class="card">
+                    <h2>ڕێکخستنێن هەژمارێ</h2>
+                    <div class="form-group"><label>ناڤێ نوی (6+ پیت)</label><input type="text" id="new-username"><button class="btn btn-secondary" onclick="changeUsername()" style="margin-top:8px;">گۆڕینا ناڤی</button></div>
+                    <div class="form-group" style="margin-top:20px;"><label>پەیڤا نهێنی یا نوی (8+ پیت)</label><input type="password" id="new-password"><button class="btn btn-secondary" onclick="changePassword()" style="margin-top:8px;">گۆڕینا پەیڤا نهێنی</button></div>
+                    <div id="account-msg" class="error-msg"></div>
+                    <div style="margin-top: 30px; display: flex; flex-direction: column; gap: 10px;">
+                        <button class="btn btn-secondary" onclick="logout()">چوونە دەر</button>
+                        <button class="btn btn-danger" onclick="deleteAccount()">ژناڤبرنا هەژمارێ</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="bottom-nav" class="bottom-nav hidden">
+        <button class="nav-item active" onclick="switchTab('video', this)"><span>🎵</span><span>دەنگ</span></button>
+        <button class="nav-item" onclick="switchTab('account', this)"><span>⚙️</span><span>هەژمار</span></button>
+    </div>
+
+    <script>
+        let currentUser = JSON.parse(localStorage.getItem('mx_current_user')) || null;
+        window.onload = () => { if (currentUser) showApp(); };
+
+        function toggleAuthMode() {
+            document.getElementById('login-card').classList.toggle('hidden');
+            document.getElementById('signup-card').classList.toggle('hidden');
+        }
+
+        async function handleSignup() {
+            const username = document.getElementById('signup-user').value.trim();
+            const password = document.getElementById('signup-pass').value.trim();
+            const err = document.getElementById('signup-error');
+            const res = await fetch('/api/signup', {
+                method: 'POST', headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ username, password })
+            });
+            const data = await res.json();
+            if (!res.ok) { err.innerText = data.error; return; }
+            loginSuccess(data.username);
+        }
+
+        async function handleLogin() {
+            const username = document.getElementById('login-user').value.trim();
+            const password = document.getElementById('login-pass').value.trim();
+            const err = document.getElementById('login-error');
+            const res = await fetch('/api/login', {
+                method: 'POST', headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ username, password })
+            });
+            const data = await res.json();
+            if (!res.ok) { err.innerText = data.error; return; }
+            loginSuccess(data.username);
+        }
+
+        function loginSuccess(username) {
+            currentUser = { username };
+            localStorage.setItem('mx_current_user', JSON.stringify(currentUser));
+            showApp();
+        }
+
+        function showApp() {
+            document.getElementById('auth-section').classList.add('hidden');
+            document.getElementById('app-section').classList.remove('hidden');
+            document.getElementById('bottom-nav').classList.remove('hidden');
+            document.getElementById('welcome-title').innerText = 'سڵاو, ' + currentUser.username;
+        }
+
+        function logout() { localStorage.removeItem('mx_current_user'); location.reload(); }
+
+        async function deleteAccount() {
+            if (!confirm('تە دڤێت هەژمارا خۆ ژناڤ ببەی؟')) return;
+            await fetch('/api/delete-account', {
+                method: 'POST', headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ username: currentUser.username })
+            });
+            logout();
+        }
+
+        async function changeUsername() {
+            const newUsername = document.getElementById('new-username').value.trim();
+            const msg = document.getElementById('account-msg');
+            const res = await fetch('/api/update-username', {
+                method: 'POST', headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ oldUsername: currentUser.username, newUsername })
+            });
+            const data = await res.json();
+            if (!res.ok) { msg.innerText = data.error; return; }
+            currentUser.username = data.username;
+            localStorage.setItem('mx_current_user', JSON.stringify(currentUser));
+            msg.style.color = '#4CAF50'; msg.innerText = 'ناڤ ب سەرکەفتی هاتە گۆڕین!';
+            document.getElementById('welcome-title').innerText = 'سڵاو, ' + currentUser.username;
+        }
+
+        async function changePassword() {
+            const newPassword = document.getElementById('new-password').value.trim();
+            const msg = document.getElementById('account-msg');
+            const res = await fetch('/api/update-password', {
+                method: 'POST', headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ username: currentUser.username, newPassword })
+            });
+            const data = await res.json();
+            if (!res.ok) { msg.innerText = data.error; return; }
+            msg.style.color = '#4CAF50'; msg.innerText = 'پەیڤا نهێنی هاتە گۆڕین!';
+        }
+
+        function switchTab(tab, btn) {
+            document.querySelectorAll('.nav-item').forEach(e => e.classList.remove('active'));
+            btn.classList.add('active');
+            document.getElementById('tab-video').style.display = tab === 'video' ? 'flex' : 'none';
+            document.getElementById('tab-account').style.display = tab === 'account' ? 'flex' : 'none';
+        }
+
+        function handleMediaUpload(e) {
+            const file = e.target.files[0];
+            if (!file) return;
+            const url = URL.createObjectURL(file);
+            const media = document.createElement(file.type.includes('video') ? 'video' : 'audio');
+            media.src = url;
+            media.onloadedmetadata = () => {
+                if (media.duration > 10800) { alert('درێژیا فایلی ژ 3 دەمژمێران پترە!'); return; }
+                document.getElementById('audio-player').src = url;
+                document.getElementById('mixer-panels').classList.remove('hidden');
+            };
+        }
+
+        function toggleMute(btn) {
+            btn.classList.toggle('muted');
+            btn.innerText = btn.classList.contains('muted') ? 'ڤەکردن' : 'مۆت';
+        }
+
+        function togglePlayPause() {
+            const p = document.getElementById('audio-player');
+            const b = document.querySelector('.play-pause-btn');
+            if (p.paused) { p.play(); b.innerText = '❚❚'; } else { p.pause(); b.innerText = '▶'; }
+        }
+
+        function skipTime(s) { document.getElementById('audio-player').currentTime += s; }
+    </script>
+</body>
+</html>
