@@ -7,10 +7,13 @@
 
 <br>
 
-<!-- Side-by-Side Integration of Logo and Cinematic Image -->
+<!-- Logo & Cinematic Image Stacked Properly -->
 <p align="center">
-  <img src="logo.png" width="38%" alt="MX Production Logo" style="border-radius: 15px; box-shadow: 0 0 25px rgba(139, 92, 246, 0.6); margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/ngfdark-blip/ngfdark-blip/main/watermarked_img_8246078260104446310.jpg" width="58%" alt="Cinematic Control Room Studio" style="border-radius: 15px; box-shadow: 0 0 25px rgba(6, 182, 212, 0.6);">
+  <img src="logo.png" width="280px" alt="MX Production Logo" style="border-radius: 15px; box-shadow: 0 0 25px rgba(139, 92, 246, 0.6); margin-bottom: 15px;">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ngfdark-blip/ngfdark-blip/main/watermarked_img_8246078260104446310.jpg" width="90%" alt="Cinematic Control Room Studio" style="border-radius: 15px; box-shadow: 0 0 30px rgba(6, 182, 212, 0.5);">
 </p>
 
 <br>
