@@ -1,7 +1,9 @@
 <div align="center">
 
-# 🚀 MX PRODUCTION & MEDIA SUITE 🎧
-### *Professional Web-Based Audio/Video Management & Production Platform*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=160&section=header&text=MX%20PRODUCTION%20SUITE&fontSize=28&fontColor=ffffff&animation=fadeIn&fontWeight=800" width="100%" alt="Header Banner">
+
+# 🚀 ENTERPRISE AUDIO & VIDEO PLATFORM 🎧
+### *Professional Web-Based Media Management & Production Suite*
 #### **Lead Systems Architect & Developer: [Yuseef Sinan](https://github.com/ngfdark-blip)**
 
 <br>
@@ -11,11 +13,10 @@
   <img src="https://img.shields.io/badge/Express.js-4.19-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/Security-Bcrypt-E50914?style=for-the-badge&logo=security&logoColor=white" alt="Bcrypt">
-  <img src="https://img.shields.io/badge/Architecture-MVC%20%2F%20REST-8B5CF6?style=for-the-badge" alt="Architecture">
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=Yuseef%20Sinan%20Production%20Systems&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" alt="Banner">
+  <img src="https://img.shields.io/badge/Architecture-MVC%20REST-8B5CF6?style=for-the-badge" alt="Architecture">
+  <img src="https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/Platform-Web%20App-06B6D4?style=for-the-badge&logo=html5&logoColor=white" alt="Platform">
 </p>
 
 [ 🌐 **English** ] | [ 🌐 **کوردی (بادینی)** ] | [ 🌐 **کوردی (سۆرانی)** ] | [ 🌐 **العربية** ]
@@ -80,7 +81,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=40&section=footer" width="100%" alt="Footer">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=50&section=footer" width="100%" alt="Footer Banner">
 
   <h3>✨ Developed with Engineering Excellence ✨</h3>
   <p><b>Lead Systems Architect & Developer: Yuseef Sinan</b></p>
