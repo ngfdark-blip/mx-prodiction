@@ -126,3 +126,4 @@ app.post('/api/delete-account', (req, res) => {
 app.listen(PORT, () => {
     console.log(`MX Production Server is running on port ${PORT}`);
 });
+
