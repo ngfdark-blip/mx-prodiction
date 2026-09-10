@@ -96,10 +96,18 @@
 </p>
 
 <p align="center">
-  <a href="https://www.snapchat.com/add/k4boos_surchi" target="_blank">[ 🌐 <strong>English (Snapchat)</strong> ]</a> | 
-  <a href="https://www.tiktok.com/@yuseef_sinan" target="_blank">[ 🌐 <strong>کوردی (بادینی - TikTok)</strong> ]</a> | 
-  <a href="https://t.me/YUSEEF_SURCHI" target="_blank">[ 🌐 <strong>کوردی (سۆرانی - Telegram)</strong> ]</a> | 
-  <a href="https://t.me/YUSEEF_SURCHI" target="_blank">[ 🌐 <strong>العربية (Telegram)</strong> ]</a>
+  <a href="https://www.snapchat.com/add/k4boos_surchi" target="_blank">
+    <img src="https://img.shields.io/badge/English-Snapchat-F7DF1E?style=for-the-badge&logo=snapchat&logoColor=black" alt="English">
+  </a> | 
+  <a href="https://www.tiktok.com/@yuseef_sinan" target="_blank">
+    <img src="https://img.shields.io/badge/کوردی__بادینی-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Badini">
+  </a> | 
+  <a href="https://t.me/YUSEEF_SURCHI" target="_blank">
+    <img src="https://img.shields.io/badge/کوردی__سۆرانی-Telegram-26A6E9?style=for-the-badge&logo=telegram&logoColor=white" alt="Sorani">
+  </a> | 
+  <a href="https://t.me/YUSEEF_SURCHI" target="_blank">
+    <img src="https://img.shields.io/badge/العربية-Telegram-26A6E9?style=for-the-badge&logo=telegram&logoColor=white" alt="Arabic">
+  </a>
 </p>
 
 </div>
@@ -132,6 +140,18 @@
 * **سیستەمێ بارکرنا مێدیایێ Multer:** رێگەدان بۆ بارکرن و لێدانا فایلێن گران (دەنگ و ڤیدیۆ) هەتا 3 دەمژمێران ب کۆنترۆلا درێژیێ.
 * **پەنێلا ڕێڤەبرنا هەژمارێ:** دروستکرنا دەروازەیێن API بۆ گۆڕینا ناڤی، نووکرنا پەیڤا نهێنی، یان ژناڤبرنا هەژمارێ ب تەواوی.
 
+<p align="center">
+  <a href="https://www.snapchat.com/add/k4boos_surchi" target="_blank">
+    <img src="https://img.shields.io/badge/Snapchat-k4boos__surchi-F7DF1E?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat">
+  </a>
+  <a href="https://www.tiktok.com/@yuseef_sinan" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-yuseef__sinan-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+  <a href="https://t.me/YUSEEF_SURCHI" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-YUSEEF__SURCHI-26A6E9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
+
 ---
 
 ## 🇮🇶 کوردی (سۆرانی)
@@ -145,6 +165,18 @@
 * **پاراستنی توند بە Bcrypt:** شاردنەوە و بەستنی وشەی تێپەڕ بە کۆدی نهێنی لە کاتی خۆتۆمارکردن و چوونەژوورەوەدا.
 * **بەڕێوەبردنی مێدیا بە Multer:** کۆنتڕۆڵکردن و بارکردنی فایلە قورسەکانی دەنگ و ڤیدیۆ تاوەکو ٣ کاتژمێر.
 
+<p align="center">
+  <a href="https://www.snapchat.com/add/k4boos_surchi" target="_blank">
+    <img src="https://img.shields.io/badge/Snapchat-k4boos__surchi-F7DF1E?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat">
+  </a>
+  <a href="https://www.tiktok.com/@yuseef_sinan" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-yuseef__sinan-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+  <a href="https://t.me/YUSEEF_SURCHI" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-YUSEEF__SURCHI-26A6E9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
+
 ---
 
 ## 🇸🇦 العربية
@@ -157,6 +189,18 @@
 * **قاعدة بيانات SQLite3:** إنشاء وتخزين بيانات المستخدمين بشكل هيكلي وآمن.
 * **تشفير الأمان Bcrypt:** تشفير كلمات المرور باستخدام الخوارزميات الآمنة أثناء التسجيل وتسجيل الدخول.
 * **نظام رفع الوسائط Multer:** معالجة ورفع الملفات الصوتية والمرئية الثقيلة مع التحقق من المدة (حتى 3 ساعات).
+
+<p align="center">
+  <a href="https://www.snapchat.com/add/k4boos_surchi" target="_blank">
+    <img src="https://img.shields.io/badge/Snapchat-k4boos__surchi-F7DF1E?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat">
+  </a>
+  <a href="https://www.tiktok.com/@yuseef_sinan" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-yuseef__sinan-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+  <a href="https://t.me/YUSEEF_SURCHI" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-YUSEEF__SURCHI-26A6E9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
 
 ---
 
